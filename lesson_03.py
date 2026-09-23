@@ -1,0 +1,15 @@
+name=input('apna name likho')
+print('hello',name)
+age=int(input('apni age likho'))
+study_hours=float(input('aj tumne kitny hours study ki'))
+tommorow_target=study_hours+1
+print()
+print('----ai engineer study tracker---')
+print('student:',name)
+print('aj tumne',study_hours,'ki good work')
+print('kel ka target:',tommorow_target,'hours')
+print('keep building',name,'!')
+weekly_hours=study_hours* 7
+print('agr tum rozana itni study kro,weekly study: ',weekly_hours,'hours')
+daily_goal=float(input('tumhara rozana study goal kitny hours ka hei'))
+print('tumhara daily goal:',daily_goal,"hours")
