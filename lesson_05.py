@@ -1,3 +1,6 @@
+# len() or indexing
+print()
+print('----len() or indexing-------')
 ai_prompt= 'Create a robot teacher in lahore'
 
 prompt_length= len(ai_prompt)
@@ -25,7 +28,13 @@ last_character= chatbot_name[-1]
 print('Total characters:',total_characters)
 print('First character:',first_character)
 print('Last character:',last_character)
+print()
 
+
+
+
+# string methods strip(),upper(),lower()
+print('----string methods strip(),upper(),lower()---------')
 print()
 print('---AI PROMPT CLEANER----')
 #Variables
@@ -67,6 +76,9 @@ length_chatbotname= len(clean_name)
 print('Length of chatbot name;',length_chatbotname)
 
 
+
+#concatination or f-string
+print('----concatination or f-strings------')
 print()
 print('----AI ENGINEER PROFILE----')
 #Variables

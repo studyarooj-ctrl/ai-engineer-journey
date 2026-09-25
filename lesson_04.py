@@ -1,3 +1,5 @@
+#Arithmetic operators
+print('----arithmetic operators-----')
 study_hours_today = 2
 study_hours_yesterday = 4
 

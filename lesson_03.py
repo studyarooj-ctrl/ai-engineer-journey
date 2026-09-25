@@ -1,3 +1,5 @@
+#input(),int(),float()
+print('----input(),int(),float()------')
 name=input('apna name likho')
 print('hello',name)
 age=int(input('apni age likho'))

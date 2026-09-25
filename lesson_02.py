@@ -1,5 +1,5 @@
 # lets start lesson 2
-# where we learn specific strings int ,str,float,bool
+# where we learn specific datatypes int ,str,float,bool
 # we learn about type function or comments
 # we learn variables
 
