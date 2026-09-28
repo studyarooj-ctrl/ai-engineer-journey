@@ -3,7 +3,12 @@ count = 5
 while count >= 1:
     print(count)
     count= count -1
+    if count == 3:
+        break
 
+
+for number in "caton":
+    print(number)
 
 #task2
 end_number = int(input('kahan tuk numbers print krne hei'))
@@ -99,7 +104,7 @@ for number in range(1, 11):
 #task14
 total=0
 for number in range(1,6):
-  if number == 3:
-   continue
-  total=total+number
-  print(total)
+   if number == 3:
+     continue
+   total=total+number
+print(total)
