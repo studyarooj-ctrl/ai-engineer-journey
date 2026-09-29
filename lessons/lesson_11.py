@@ -1,3 +1,4 @@
+print('=== indexing or append in list seekha ====')
 #task1
 project_ideas = ['calculator','game','working app']
 first_idea = project_ideas[0]
