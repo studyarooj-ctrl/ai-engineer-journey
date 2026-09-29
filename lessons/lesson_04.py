@@ -1,5 +1,5 @@
 #Arithmetic operators
-print('----arithmetic operators-----')
+print('----arithmetic operators seekhay or 2 mini tasks kiye -----')
 study_hours_today = 2
 study_hours_yesterday = 4
 
