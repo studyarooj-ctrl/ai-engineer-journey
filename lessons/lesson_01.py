@@ -1,4 +1,5 @@
-print('-----print function-----')
+print('-----print function seekha -----')
+print()
 print("salam everyone")
 print("my name is arooj")
 print('mei ne course start kia hei ai engineering ke name se')
