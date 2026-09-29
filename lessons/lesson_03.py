@@ -1,5 +1,5 @@
 #input(),int(),float()
-print('----input(),int(),float()------')
+print('----input() function or int(),float(),str() type conversions seekhay------')
 name=input('apna name likho')
 print('hello',name)
 age=int(input('apni age likho'))
