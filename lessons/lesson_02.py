@@ -2,7 +2,8 @@
 # where we learn specific datatypes int ,str,float,bool
 # we learn about type function or comments
 # we learn variables
-
+print('=== in this lecture we learn about variables,basic three datatypes, type function or comments ====== ')
+print()
 
 print('variables woh hotay hein jinme koi na koi data store ho. example ke taur pr ')
 name='arooj zahid'
