@@ -1,3 +1,5 @@
+
+print('=== esme humne if elif or else ki practice ki =====')
 #Esme hum if,else or elif conditions ko samjhein ge
 study_hours= 3
 daily_goal = 2
