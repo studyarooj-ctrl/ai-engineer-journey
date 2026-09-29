@@ -1,3 +1,4 @@
+print('=== esme while loop,for loop ki practice ki or continue or break ko use kiya ====')
 # task 1
 count = 5
 while count >= 1:
@@ -104,7 +105,7 @@ for number in range(1, 11):
 #task14
 total=0
 for number in range(1,6):
-   if number == 3:
+  if number == 3:
      continue
-   total=total+number
+    total=total+number
 print(total)
