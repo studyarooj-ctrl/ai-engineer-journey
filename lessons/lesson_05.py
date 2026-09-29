@@ -1,6 +1,6 @@
 # len() or indexing
 print()
-print('----len() or indexing-------')
+print('----len() or indexing or	String methods upper(),lower() and strip(), concatination or f-string seekha-------')
 ai_prompt= 'Create a robot teacher in lahore'
 
 prompt_length= len(ai_prompt)
