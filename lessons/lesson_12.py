@@ -9,6 +9,7 @@ list2 = [10, 20,30]
 for number in list2:
     number += 5
     print(number)
+    
 
 # task3
 list3 = [2,4,6]
